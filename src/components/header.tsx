@@ -2,7 +2,6 @@ import { Link } from "react-router-dom";
 import { CitySearch } from "./city-search";
 import { ThemeToggle } from "./theme-toggle";
 import { useTheme } from "@/context/theme-provider";
-import { CloudIcon } from "lucide-react";
 
 export function Header() {
   const { theme } = useTheme();
