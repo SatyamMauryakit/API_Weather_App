@@ -1,44 +1,15 @@
-# Weather Application
+# API INTEGRATION  WEATHER APP #
 
-A modern weather application built with React, TypeScript, and Vite that provides real-time weather information and forecasts.
+* COMPANY *: CODETECH IT SOLUTIONS
 
-## Features
+*NAME* : SATYAM MAURYA 
 
-- Current weather conditions display
-- Hourly and daily weather forecasts
-- City search functionality with search history
-- Favorite cities management
-- Geolocation support
-- Theme toggle (light/dark mode)
-- Responsive design
+*INTERN ID* : CT08DH899
 
-## Tech Stack
+*DOMAIN* : FULL STACK WEB DEVELOPMENT
 
-- React
-- TypeScript
-- Vite
-- Weather API Integration
-- Local Storage for favorites and history
-- UI Components with shadcn/ui
+*DURATION* : 8 WEEKS
 
-## Project Structure
+*MENTOR* : NEELA_SANTHU
 
-- `/src/api`: API configuration and types
-- `/src/components`: Reusable UI components
-- `/src/context`: Theme provider context
-- `/src/hooks`: Custom hooks for state management
-- `/src/lib`: Utility functions
-- `/src/pages`: Main application pages
 
-## Getting Started
-
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Set up environment variables in `.env`
-4. Run development server: `npm run dev`
-
-## Environment Variables
-
-Create a `.env` file in the root directory with:
-```env
-VITE_WEATHER_API_KEY=your_api_key_here
